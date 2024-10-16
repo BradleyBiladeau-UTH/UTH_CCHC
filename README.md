@@ -23,10 +23,6 @@ This repository's goal is to consolidate all tooling used for research and analy
     ```
 2. Follow the instructions in the `docs` folder for each tool or method.
 
-## Contributing
-
-We welcome contributions from the community. Please read our [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
